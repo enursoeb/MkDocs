@@ -1,5 +1,9 @@
 site_name: Runes dokumentasjon
 
+nav:
+  - Home: index.md
+  - C#: 
+    - Getting Started: C#/Index.md
 
 plugins:
   - search

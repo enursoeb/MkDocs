@@ -11,12 +11,8 @@
             "id": "583d3f0e9df8df23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,5 +139,12 @@
     }
   },
   "active": "583d3f0e9df8df23",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "C#/GettingStarted.md",
+    "C#/Index.md",
+    "index.md",
+    "C#/New Text Document.txt",
+    "C#",
+    "New folder"
+  ]
 }
